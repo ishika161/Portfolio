@@ -1,2 +1,2 @@
 # Portfolio
-(https://ishika161.github.io/Portfolio.github.io/)
+(https://ishika161.github.io/Portfolio/)
